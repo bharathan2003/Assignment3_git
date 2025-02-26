@@ -1,3 +1,0 @@
-name: Bharathan
-dept: cse
-roll : 21 cs028
